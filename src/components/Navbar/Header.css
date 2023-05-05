@@ -1,0 +1,20 @@
+/* .header-section {
+   background-image: url(../../assets/Header.png); 
+} */
+
+.header-intro {
+   background-image: linear-gradient(to bottom, rgba(244, 102, 202, 0.98), rgba(255, 255, 255, 0.9)), url(../../assets/Header.png);
+   height: 600px;
+   display: flex;
+   justify-content: center;
+   align-content: center;
+   flex-direction: column;
+   
+}
+
+.header-intro h2{
+   text-align: center;
+   vertical-align: center;
+   font-size: 40px;
+   line-height: 50px;
+}

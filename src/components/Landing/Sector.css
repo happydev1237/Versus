@@ -1,0 +1,18 @@
+.sector-intro {
+    display: flex;
+    margin-left: 40px;
+}
+
+.sector-intro h2{
+    font-size: 50px;
+    line-height: 60px;
+    vertical-align: auto;
+    margin-top: 100px;
+    display: block;
+}
+
+.sector-intro .sector-desc{
+    margin-top: 30px;
+    font-size: 24px;
+    line-height: 32px;
+}
